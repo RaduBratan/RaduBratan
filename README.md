@@ -1,7 +1,7 @@
 ### <div align="center">Hi, I'm Radu Bratan</div>  
   
 
-- 💻 I’m currently working on [Emulair](https://github.com/RaduBratan/Emulair) and other uni related projects.  
+- 💻 I’m currently working on [Emulair](https://github.com/RaduBratan/Emulair) and other university related projects.  
   
 
 - 📚 I’m currently learning Python, Haskell and .NET.  
