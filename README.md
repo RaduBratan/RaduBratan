@@ -92,6 +92,6 @@
 ## Github Stats  
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RaduBratan&bg_color=0000&text_color=aaa&title_color=fefefe&icon_color=fefefe&show_icons=true&border_color=666&border_radius=24"
+    src="https://github-readme-stats.vercel.app/api?username=RaduBratan&count_private=true&include_all_commits=true&bg_color=0000&text_color=aaa&title_color=fefefe&icon_color=fefefe&show_icons=true&border_color=666&border_radius=24"
     align="center" />
 </div>
