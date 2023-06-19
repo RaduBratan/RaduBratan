@@ -87,6 +87,7 @@
 </td>
 </tr></table>  
 
+<!--
 <br/>
 
 ## Github Stats  
@@ -95,3 +96,4 @@
     src="https://github-readme-stats-radubratan.vercel.app/api?username=RaduBratan&bg_color=0000&text_color=aaa&title_color=fefefe&icon_color=fefefe&border_color=666&border_radius=24&show_icons=true&count_private=true&include_all_commits=true"
     align="center" />
 </div>
+-->
