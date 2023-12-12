@@ -1,6 +1,6 @@
 ### <div align="center">Hi, I'm Radu</div>
 - 💻 I’m currently working on [Emulair](https://github.com/Emulair/Emulair) and other university related projects.
-- 📚 I’m currently learning Python, Haskell and .NET.
+- 📚 I’m currently learning x86 assembly, ASP.NET and C#.
 - 🌐 I speak English and Romanian. I'm currently re-learning Italian.
 
 <br/>
