@@ -1,7 +1,7 @@
 ### <div align="center">Hi, I'm Radu</div>
-- 💻 I’m currently working on [Emulair](https://github.com/EmulairEmulator/Emulair-Android) and other university related projects.
-- 📚 I’m currently learning Solidity, React Native and Jetpack Compose.
-- 🌐 I speak English and Romanian. I'm currently re-learning Italian.
+- 💻 I’m currently working on [Emulair](https://github.com/EmulairEmulator/Emulair-Android).
+- 📚 I’m learning Jetpack Compose.
+- 🌐 I speak English and Romanian.
 
 <br/>
 
