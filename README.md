@@ -1,5 +1,6 @@
 ### <div align="center">Hi, I'm Radu</div>
-- 💻 I’m currently working on [Emulair](https://github.com/EmulairEmulator/Emulair-Android).
+- 💻 I’m currently working on [Emulair Emulator](https://github.com/EmulairEmulator).
+- 🔙 I previously worked on [Wildpeppers Wallpapers](https://github.com/WildpeppersWallpapers) and [Rayvue Review](https://github.com/RayvueReview).
 - 📚 I’m learning Jetpack Compose.
 - 🌐 I speak English and Romanian.
 
