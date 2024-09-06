@@ -1,7 +1,8 @@
 ### <div align="center">Hi, I'm Radu</div>
 - 💻 I’m currently working on [Emulair Emulator](https://github.com/EmulairEmulator).
 - 🔙 I previously worked on [Wildpeppers Wallpapers](https://github.com/WildpeppersWallpapers) and [Rayvue Review](https://github.com/RayvueReview).
-- 📚 I’m learning Jetpack Compose.
+- 🎨 Sometimes, I design icons for [Lawnchair Launcher](https://github.com/LawnchairLauncher/lawnicons).
+- 📚 I’m deepening my knowledge of Kotlin and Jetpack Compose.
 - 🌐 I speak English and Romanian.
 
 <br/>
