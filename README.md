@@ -2,6 +2,7 @@
 - 💻 I’m currently working on [Emulair Emulator](https://github.com/EmulairEmulator).
 - 🔙 I previously worked on [Wildpeppers Wallpapers](https://github.com/WildpeppersWallpapers) and [Rayvue Review](https://github.com/RayvueReview).
 - 🎨 Sometimes, I design icons for [Lawnchair Launcher](https://github.com/LawnchairLauncher/lawnicons).
+- 🎓 I created a repo containing all my university projects: [Uni-projects](https://github.com/RaduBratan/Uni-projects/).
 - 📚 I’m deepening my knowledge of Kotlin and Jetpack Compose.
 - 🌐 I speak English and Romanian.
 
